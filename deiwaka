@@ -1,0 +1,24 @@
+
+deiwaka/
+├───deiwaka
+│   ├───__init__.py
+│   └───JavaScript
+│       └───__init__.py
+└───.git (Git repository)
+    ├───branches
+    ├───config
+    ├───description
+    ├───hooks
+    │   └───pre-commit
+    ├───info
+    │   └───sparse-checkout
+    ├───logs
+    │   └───refs
+    │       └───heads
+    │           └───main
+    ├───objects
+    │   └───pack
+    │       └───pack-536f7f09887504702f151848972215800f5793f9.idx
+    └───refs
+        └───heads
+            └───main
